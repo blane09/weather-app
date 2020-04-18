@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/blane09/weather-app/issues"
   },
-  "homepage": "https://github.com/blane09/weather-app#readme"
+  "homepage": "https://github.com/blane09/weather-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
