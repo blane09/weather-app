@@ -1,0 +1,41 @@
+Body {
+background-color: blue;
+color: white;
+text-align: center;
+}
+.title {
+  color: orange;
+}
+.button {
+  color: white;
+  display: inline-block;
+  padding: 0.5rem;
+  border: 1px solid white;
+  margin-bottom: 1rem;
+  padding-left: 1 rem;
+  padding-right: 1 rem;
+  margin-top: 1 rem;
+}
+
+.button:hover {
+  color: #1B9CFC;
+  background-color: white;
+  cursor: pointer;
+}
+
+.weatherdescription {
+  color: green;
+
+}
+
+.weathermain {
+  margin-bottom: 10px;
+}
+
+.cityinput {
+  text-align: center;
+}
+
+.imagecontainer {
+  margin-bottom: 10px;
+}
